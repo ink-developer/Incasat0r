@@ -1,1 +1,1 @@
-soon)
+[![ink's GitHub stats](https://github-readme-stats.vercel.app/api?username=ink-developer)](https://github.com/anuraghazra/github-readme-stats)
